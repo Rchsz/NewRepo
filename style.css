@@ -2,3 +2,19 @@
     text-decoration: underline;
     background-color: blueviolet;
 }
+.item{
+    color: beige;
+    font-size: large;
+    transition-duration: 0.3s;
+    cursor: pointer;
+    width: 10%;
+}
+.list{
+    display: flex;
+    gap: 40px;
+    background-color: crimson;
+    list-style: none;
+    margin: 0;
+    padding: 20px;
+   
+}
